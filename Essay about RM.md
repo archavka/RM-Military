@@ -118,3 +118,68 @@ accept the risk based on the residual risk level.
 Effective controls meet the eight criteria of effectiveness (see descriptions in table 1-3):
  
 ![Criteria for effective control](https://user-images.githubusercontent.com/96508711/157655770-9a73e086-db2f-43aa-b989-b5c5503625ca.png)
+
+Examples of Hazard and Controls:
+
+![ExamplesOfHazardAndControls](https://user-images.githubusercontent.com/96508711/157656640-baa745cb-935d-4749-b240-c18f02870103.png)
+
+Step 4 - Implement Controls
+
+Army leaders establish how the controls will be implemented and who will manage them. They ensure
+selected controls are translated into briefings and curricula and then integrated with training. They direct
+trainers to develop practical training solutions. They ensure units receive safety equipment and instructions
+on its use. Army leaders ensure subordinates fully understand and implement the controls. They ensure the
+implemented controls are maintained to standard. Examples of ways to disseminate guidance and ensure
+implementation of controls include:
+* Overlays and graphics.
+* Drills for vehicle and aircraft silhouette identification.
+* Rehearsals and battle drills.
+* Refresher training on intensive threat and friendly vehicle identification for all anti-armor and air defense weapons crews.
+* Installation and maintenance of communications links for key civilian organizations.
+* Operation of convoys with a prescribed minimum number of vehicles.
+* Provisions to carry weapons and wear body armor and helmets when outside secure compounds.
+* Accident awareness, safety briefings, and warnings. 
+
+Step 5 - Supervise and Evaluate
+
+Primarily, step 5 involves ensuring that controls are implemented and performed to standard.
+RM practitioners apply this step to validate that selected controls support achieving the end state. 
+They identify weaknesses of controls and make changes or adjustments based on performance or changing situations,
+conditions, or events. 
+However, supervision and evaluation are not limited to controls. 
+Like other steps of RM, supervision and evaluation must occur throughout all phases of any operation or activity.
+RM practitioners supervise and evaluate all aspects of RM continuously. 
+
+Supervise
+
+Supervision is a primary means of regulating forces. Step 5 fully integrates supervision into RM.
+Higher-level leaders ensure lower-level leaders responsible for implementing controls understand their
+responsibilities. They ensure subordinates understand how, when, and where to implement controls.
+
+Situational understanding is a critical component of RM when identifying hazards. Situational
+understanding is equally important in supervision. Leaders ensure that complacency, deviation from
+standards, or violations of policies and controls are not allowed to threaten success. They ensure Soldiers
+monitor factors such as fatigue, equipment serviceability and availability, and the weather and
+environment. If they identify more hazards during operations, they can propose controls to eliminate or
+mitigate them.
+
+An extraordinary degree of discipline is needed to avoid complacency from boredom and
+overconfidence when personnel are performing repetitive tasks.
+
+Evaluate
+
+RM practitioners conduct evaluation during all phases and activities of operations. Evaluation supports several goals, including but
+not limited to:
+
+* Determining if risk levels changed during operations.
+* Adapting to changes in the situation.
+* Monitoring effectiveness of controls.
+* Making corrections to control implementation.
+* Improving the application of RM principles in current and future operations. 
+
+Expmples:
+
+Evaluation Goals
+
+![Evaluation Goals](https://user-images.githubusercontent.com/96508711/157660528-1a7d6c26-a6da-4638-9651-b7862178fc88.png)
+
