@@ -183,3 +183,11 @@ Evaluation Goals
 
 ![Evaluation Goals](https://user-images.githubusercontent.com/96508711/157660528-1a7d6c26-a6da-4638-9651-b7862178fc88.png)
 
+Feedback
+
+An evaluation by itself is not enough. Organizations must establish a feedback system to ensure
+controls are, were, or will continue to be effective.
+Feedback informs all involved as to the effectiveness of controls.
+Organizations should collect data on RM efforts. RM practitioners can share feedback in the form of
+briefings, lessons learned, reports, or benchmarking. Without feedback, Army leaders cannot know if
+forecasts were accurate, contained minor errors, or were completely incorrect. 
