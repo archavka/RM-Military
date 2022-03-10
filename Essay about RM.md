@@ -105,3 +105,16 @@ Risk Levels
 * Medium
 * Low  
 ![Risk Assessment Matrix](https://user-images.githubusercontent.com/96508711/157652342-02b23c3a-8076-47fa-be1a-b260e7bbf74b.png)
+
+Step 3- Develop Controls and Make Risk Decisions.
+
+During control development, the mitigating effects of the proposed controls are considered. They reassess the initial level of risk and
+determine a residual level of risk (risk after controls are implemented). RM practitioners continue
+developing control options, considering their mitigating effects, and reassessing risk until they have
+determined the most effective controls. The responsible commander at the appropriate echelon determines
+the risk tolerance for the situation. The responsible commander makes risk decisions—to accept or not
+accept the risk based on the residual risk level.
+
+Effective controls meet the eight criteria of effectiveness (see descriptions in table 1-3):
+ 
+![Criteria for effective control](https://user-images.githubusercontent.com/96508711/157655770-9a73e086-db2f-43aa-b989-b5c5503625ca.png)
