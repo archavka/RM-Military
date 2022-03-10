@@ -43,3 +43,65 @@ and benefits helps
 
 **APPLY RISK MANAGEMENT CYCLICALLY AND CONTINUOUSLY**
 ![Assessment steps and management steps](https://user-images.githubusercontent.com/96508711/157267277-5b1d3c1b-ea10-494d-a944-e69e0d4f98f9.jpg)
+
+Step 1 - Identify Hazards
+
+An approach to identifying a hazard is to consider how the condition can lead to a sequence of specific events or an accident-loss scenario. 
+The source or cause is a condition (such as a wet roadway) that is a
+prerequisite to a mishap. The mechanism, or effect, is how the source manifests itself (such as by a vehicle
+hydroplaning). The outcome, or undesired event, is the result of the mechanism occurring due to the source
+being present (such as the vehicle leaving the roadway and striking a tree).
+ To determine original hazard
+(sometimes known as the root hazard or root cause), RM practitioners consider system inadequacies in
+areas such as support, standards, and training, or leadership and individual failures.
+
+To illustrate, tripping is
+not considered a hazard because another condition or circumstance caused it. To identify the hazard, the
+RM practitioner must ask why a person would trip in a certain location. Repeated questioning should lead
+to the logical answer. When there is no longer a logical answer to the question, the original hazard has been
+identified.
+
+The mission variables—mission, enemy, terrain and weather, troops and support available, time
+Some other resources and tools support the identification of hazards include:
+
+* Experience and other experts.
+* Regulations, manuals, standard operating    procedures (SOPs), and policies.
+* Accident data
+* War-gaming what-if scenarios
+* Data from risk assessment matrixes
+* Readiness assessments
+* Cause and effect diagrams
+* Change analysis
+* Energy trace and barrier analysis
+* Logic diagrams
+* Mapping techniques
+* Training assessments
+* After action reviews (AARs)
+
+The mission variables (mission, enemy, terrain and weather), also called the factors are used primarily as part of decisionmaking process or leading procedures for planning operations. In addition,
+they provide a pattern for addressing threat- and accident-based risk for any activities, on- or off-duty.
+
+Step 2 - Assess the Hazards
+
+To assess hazards, RM practitioners consider how identified hazards (conditions) could lead to
+harmful events and how those events would affect operations. When hazards are assessed and risk levels are assigned, the resulting analysis is a measurement of risk—probability and severity of loss linked to hazards. Risk levels reflect acombination of the probability of occurrence and the severity of the adverse impact. Probability andseverity are independent measures of hazards. In other words, estimating probability has no direct relationship to estimating severity. 
+
+Probability is the likelihood an event will occur; it is assessed as:
+* frequent
+* likely 
+* occasional
+* unlikely   
+
+Severity is the expected consequences of an event in terms of injury, property damage, or other mission-impairing factors; it is assessed as:
+* catastrophic
+* critical
+* negligible
+ 
+ A risk level is a type of score that assesses the odds (probability) of something going wrong and the effect (severity) of the incident when it occurs. 
+
+Risk Levels
+* Extremly High
+* High
+* Medium
+* Low  
+![Risk Assessment Matrix](https://user-images.githubusercontent.com/96508711/157652342-02b23c3a-8076-47fa-be1a-b260e7bbf74b.png)
